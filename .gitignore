@@ -1,0 +1,4 @@
+target/
+java/lang8/lang8/target/classes/com/coder/java/App.class
+java/lang8/lang8/target/classes/com/coder/java/S3Client.class
+java/lang8/lang8/target/test-classes/com/coder/java/AppTest.class
